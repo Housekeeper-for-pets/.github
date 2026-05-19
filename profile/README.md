@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 로고 이미지가 있다면 아래 src를 교체해 주세요. -->
-<img width="220" alt="ForPets Logo" src="https://github.com/user-attachments/assets/fbb9a19b-6ef1-47f7-a4e2-6e4b91b09dc7" />
+<img width="220" alt="ForPets Logo" src="https://github.com/user-attachments/assets/60c305dc-8fd2-45e9-b9cc-7c546a00cd61" />
 
 # ForPets (포펫츠)
 
@@ -226,7 +226,7 @@ Base URL: /api
 | **Post / Proposal** | **권지원** | 공고 등록·조회·수정, PostTimeSlot, 역방향 매칭 흐름 |
 | **Infra / CI/CD / Concurrency** | **박영수** | 배포, GitHub Actions, AWS, 동시성 제어, Kafka |
 | **Query / Cache / Performance** | **선경안** | QueryDSL, 성능 병목 개선, Redis 캐싱 전략 |
-| **AI** | **이지민** | LLM 구조화 출력, Tool Calling, AI 장애 격리, 비용 인식 설계 |
+| **AI / Payment / Frontend** | **이지민** | LLM 구조화 출력, Tool Calling, AI 장애 격리, 결제, 프론트엔드 초기 세팅 및 MVP 화면 구현 |
 | **Auth / Realtime / Concurrency** | **최길중** | 회원가입, JWT, 권한 처리, 실시간 메시징, 동시성 |
 
 ### 공통 담당
@@ -278,6 +278,17 @@ Base URL: /api
 | **Container** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+
+### 프론트엔드
+
+| 구분 | 기술 |
+| --- | --- |
+| **Language** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Library** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Build Tool** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E) |
+| **Routing** | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) |
+| **API Communication** | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |  
 
 ### 협업 / 문서화
 
@@ -472,7 +483,7 @@ Copyright (c) 2026 집사조. All Rights Reserved.
 * 권지원 — Post / Proposal
 * 박영수 — Infra / CI/CD / Concurrency
 * 선경안 — QueryDSL / Cache / Performance
-* 이지민 — AI / FE
+* 이지민 — AI / Payment / Frontend
 * 최길중 — Auth / Realtime / Concurrency
 
 ### 문의
