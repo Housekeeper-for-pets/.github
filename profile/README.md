@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 로고 이미지가 있다면 아래 src를 교체해 주세요. -->
-<img width="220" alt="ForPets Logo" src="https://github.com/user-attachments/assets/a355c244-3f5a-4c13-b3b6-fde716630736" />
+<img width="220" alt="ForPets Logo" src="https://github.com/user-attachments/assets/fbb9a19b-6ef1-47f7-a4e2-6e4b91b09dc7" />
 
 # ForPets (포펫츠)
 
