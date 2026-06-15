@@ -67,7 +67,7 @@
 ## 🔗 Links
 
 * 👊 [프로젝트 노션 바로가기](https://www.notion.so/teamsparta/35e2dc3ef514805b8349f59a239ded0b)
-* 💻 [프론트엔 GitHub 바로가기](https://github.com/Housekeeper-for-pets/for-pets-frontend)
+* 💻 [프론트엔드 GitHub 바로가기](https://github.com/Housekeeper-for-pets/for-pets-frontend)
 * 💻 [백엔드 GitHub 바로가기](https://github.com/Housekeeper-for-pets/for-pets-project)
 
 ---
