@@ -56,11 +56,14 @@
 
 ## 👥 Our Team
 
-| 최길중                  | 권지원        | 박영수        | 선경안        | 이지민        |
-| :---: | :---: | :---: | :---: | :---: |
-| [@giljung8228](https://github.com/giljung8228?tab=repositories)           | [@jiwon-e-e](https://github.com/jiwon-e-e) | [@ml5153](https://github.com/ml5153?tab=repositories) | [@grown-tree](https://github.com/grown-tree) | [@jiiimni](https://github.com/jiiimni) |
-| TL / BE   | BE         | BE / Infra         | BE         | BE / FE        |
-| 인증/인가, 채팅, 쿠폰 | 순방향/역방향, 관리자,예약,동시성,모니터링  | CI/CD, 배포      | 조회, 성능개선(캐싱/인덱싱), 리뷰, 모니터링      | 결제, AI기능      |
+| 이름 | GitHub | 역할 | 담당 |
+| :---: | :---: | :---: | :--- |
+| 최길중 | [@giljung8228](https://github.com/giljung8228?tab=repositories) | TL / BE | 인증/인가, 채팅, 쿠폰 |
+| 권지원 | [@jiwon-e-e](https://github.com/jiwon-e-e) | BE | 순방향/역방향, 관리자, 예약, 동시성, 모니터링 |
+| 박영수 | [@ml5153](https://github.com/ml5153?tab=repositories) | BE / Infra | CI/CD, 배포 |
+| 선경안 | [@grown-tree](https://github.com/grown-tree) | BE | 조회, 성능개선, 캐싱, 인덱싱, 리뷰, 모니터링 |
+| 이지민 | [@jiiimni](https://github.com/jiiimni) | BE / FE | 결제, AI 기능 |
+
 
 ---
 
