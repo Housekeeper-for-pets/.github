@@ -420,11 +420,14 @@ k6
 
 ## ◻ BE
 
-| 구분 | 문서 | 핵심 내용 |
-| :---: | :--- | :--- |
-| 🔐 인증 / WebSocket | [인증/WebSocket 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/auth-websocket-issues.md) | 만료된 Access Token 로그아웃 시 발생한 500 에러를 처리, WebSocket 인증 로직의 NPE 경고를 개선 |
-| 💬 채팅 동시성 | [채팅 동시성 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-concurrent-issues.md) | 동시 메시지 전송 시 마지막 메시지가 덮어씌워지는 문제와 동시 채팅방 생성 시 중복 생성 문제를 해결 |
-| ⚡ 채팅 쿼리 최적화 | [채팅 쿼리 최적화 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-query-optimization.md) | 채팅방 목록 조회의 N+1 문제를 제거, 정렬/페이징을 DB에서 처리하도록 개선 |
+- 🔐 [인증/WebSocket 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/auth-websocket-issues.md)  
+  만료 토큰 로그아웃 처리 및 WebSocket 인증 로직 개선
+
+- 💬 [채팅 동시성 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-concurrent-issues.md)  
+  마지막 메시지 갱신 문제와 채팅방 중복 생성 문제 해결
+
+- ⚡ [채팅 쿼리 최적화 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-query-optimization.md)  
+  채팅방 목록 조회 N+1 문제와 메모리 페이징 개선
 
 
 ---
