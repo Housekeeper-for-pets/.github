@@ -434,7 +434,7 @@ k6
 # 🚨 Trouble Shooting
 
 ## ◻ BE
-
+### 최길중
 - 🔐 [인증/WebSocket 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/auth-websocket-issues.md)  
   만료 토큰 로그아웃 처리 및 WebSocket 인증 로직 개선
 
@@ -443,7 +443,17 @@ k6
 
 - ⚡ [채팅 쿼리 최적화 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-query-optimization.md)  
   채팅방 목록 조회 N+1 문제와 메모리 페이징 개선
+---
+### 권지원
 
+---
+### 박영수
+
+---
+### 선경안
+
+---
+### 이지민
 
 ---
 
