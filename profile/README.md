@@ -420,12 +420,9 @@ k6
 
 ## ◻ BE
 
-* Redis 분산락을 활용한 쿠폰 초과 발급 방지
-* WebSocket 연결 시 JWT 인증 처리
-* Nginx 기반 멀티 인스턴스 라우팅
-* GitHub Actions 기반 CI/CD 구성
-* Prometheus + Grafana 모니터링 구성
-* AI 리뷰 검색을 위한 Qdrant 연동
+[인증/WebSocket 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/auth-websocket-issues.md)
+[채팅 동시성 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-concurrent-issues.md)
+[채팅 쿼리 최적화 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/giljung/chat-query-optimization.md)
 
 ---
 
