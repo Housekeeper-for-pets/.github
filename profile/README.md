@@ -59,7 +59,7 @@
 | 최길중                  | 권지원        | 박영수        | 선경안        | 이지민        |
 | -------------------- | ---------- | ---------- | ---------- | ---------- |
 | [@giljung8228](https://github.com/giljung8228?tab=repositories)           | [@jiwon-e-e](https://github.com/jiwon-e-e) | [@ml5153](https://github.com/ml5153?tab=repositories) | [@grown-tree](https://github.com/grown-tree) | [@jiiimni](https://github.com/jiiimni) |
-| TL / BE / FE  | BE         | BE / FE         | BE / Infra        | BE         | BE / FE
+| TL / BE / FE  | BE         | BE / FE         | BE / Infra        | BE         | BE / FE |
 | 인증/인가, 채팅, 쿠폰 | 담당 입력      | 담당 입력      | 담당 입력      | 담당 입력      |
 
 ---
