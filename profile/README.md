@@ -1,7 +1,7 @@
 # 🐾 For-Pets
 
 <p align="center">
-  <img src="docs/images/logo_horizontal.png" width="420">
+  <img width="380" height="270" alt="프로젝트_커버_380x270_화질개선 (1)" src="https://github.com/user-attachments/assets/aabf79f4-24dc-4878-8c69-ad0015914f02" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 ## 👥 Our Team
 
 | 최길중                  | 권지원        | 박영수        | 선경안        | 이지민        |
-| -------------------- | ---------- | ---------- | ---------- | ---------- |
+| :---: | :---: | :---: | :---: | :---: |
 | [@giljung8228](https://github.com/giljung8228?tab=repositories)           | [@jiwon-e-e](https://github.com/jiwon-e-e) | [@ml5153](https://github.com/ml5153?tab=repositories) | [@grown-tree](https://github.com/grown-tree) | [@jiiimni](https://github.com/jiiimni) |
 | TL / BE   | BE         | BE / Infra         | BE         | BE / FE        |
 | 인증/인가, 채팅, 쿠폰 | 순방향/역방향      | CI/CD, 배포      | 캐싱, 인덱싱      | 결제, AI기능      |
@@ -462,35 +462,16 @@ k6
 
 # 📝 Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-21-red?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-3.5.14-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-Hibernate-orange">
-  <img src="https://img.shields.io/badge/QueryDSL-0769AD">
-</p>
+|       Category       | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      🧩 Backend      | <img src="https://img.shields.io/badge/Java-21-red?logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-3.5.14-6DB33F?logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Web-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-0769AD"> <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/Lombok-BC4521"> |
+|      🗄 Database     | <img src="https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/H2-1021FF">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|    ⚡ Cache / Lock    | <img src="https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Redisson-3.27.2-DC382D">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|     📩 Messaging     | <img src="https://img.shields.io/badge/Kafka-3.7.0-231F20?logo=apachekafka&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     💬 Real-time     | <img src="https://img.shields.io/badge/WebSocket-010101"> <img src="https://img.shields.io/badge/STOMP-6A1B9A">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|         🤖 AI        | <img src="https://img.shields.io/badge/Spring_AI-6DB33F"> <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Qdrant-1.9.7-DC244C">                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|   🚀 Infra / DevOps  | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/AWS_ECR-FF9900?logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">                                                                                                                                     |
+| 📊 Test / Monitoring | <img src="https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Actuator-6DB33F"> <img src="https://img.shields.io/badge/Micrometer-1F8ACB">                                                                                                                                                                                                                 |
+|   🛠 Collaboration   | <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">                                                                                                                                                                                                                                                                                                                         |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-3.7.0-231F20?logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Qdrant-1.9.7-DC244C">
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/logo_vertical.png" width="200">
-</p>
-
-<p align="center">
-  ◻ Copyright © 2026 For-Pets Team. All rights reserved.
-</p>
