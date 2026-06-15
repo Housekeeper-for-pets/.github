@@ -60,7 +60,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | [@giljung8228](https://github.com/giljung8228?tab=repositories)           | [@jiwon-e-e](https://github.com/jiwon-e-e) | [@ml5153](https://github.com/ml5153?tab=repositories) | [@grown-tree](https://github.com/grown-tree) | [@jiiimni](https://github.com/jiiimni) |
 | TL / BE   | BE         | BE / Infra         | BE         | BE / FE        |
-| 인증/인가, 채팅, 쿠폰 | 순방향/역방향      | CI/CD, 배포      | 성능개선(캐싱/인덱싱), 리뷰, 모니터링      | 결제, AI기능      |
+| 인증/인가, 채팅, 쿠폰 | 순방향/역방향, 관리자,예약,동시성,모니터링  | CI/CD, 배포      | 조회, 성능개선(캐싱/인덱싱), 리뷰, 모니터링      | 결제, AI기능      |
 
 ---
 
