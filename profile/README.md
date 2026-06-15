@@ -446,6 +446,18 @@ k6
 ---
 ### 권지원
 
+- 💳 [PG 부분환불 불가 문제](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jiwon/payment-partial-cancel-issue.md)  
+  PG 부분취소 정책 제한을 우회한 내부 정산 분리 처리
+
+- 🔒 [Lock과 Transaction의 Race Condition](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jiwon/race-condition-issue.md)  
+  Lock이 Transaction을 감싸야 하는 이유와 다계층 방어 전략
+
+- 🔗 [Spring AOP 체이닝 바인딩 버그](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jiwon/aop-chaining-binding-issue.md)  
+  Advice 2개 체이닝 시 JoinPointMatch 누락 → Reflection으로 해결
+
+- 🕐 [멀티 인스턴스 스케줄러 중복 실행 방지](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jiwon/multi-instance-shedlock.md)  
+  ShedLock 도입으로 스케줄러 단일 실행 보장 및 2계층 락 구조 설계
+
 ---
 ### 박영수
 
