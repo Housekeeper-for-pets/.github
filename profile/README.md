@@ -451,7 +451,12 @@ k6
 
 ---
 ### 선경안
-
+- 💬 [캐시 hit/miss 계측 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/kyeongan/monitoring/monitor-01-cache-hit-miss-instrumentation.md)  
+  @Cacheable 프록시 구조 한계를 MeteredCacheManager로 해결
+- 🎯 [운영 분포(skew) 모사 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/kyeongan/performance/perf-04-realistic-data-distribution.md)  
+  CLOSED 누적 분포로 모사하니 인덱스 설계가 통째로 뒤집힘
+- 🛡 [Graceful Degradation 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/kyeongan/cache/cache-01-graceful-degradation.md)  
+  Redis가 죽어도 DB 폴백으로 서비스는 멈추지 않게 처리
 ---
 ### 이지민
 - 🤖 [AI 리뷰 요약 프롬프트 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/ai/ai-01-review-summary-prompt-template-missing.md)  
