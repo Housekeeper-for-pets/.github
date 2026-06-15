@@ -462,20 +462,8 @@ k6
 
 # 📋 ERD Diagram
 
-<details>
-<summary><b>✅ ERD 보기</b></summary>
+<img width="3741" height="1733" alt="image" src="https://github.com/user-attachments/assets/2250aef5-1641-437a-aaaf-c917c39ef011" />
 
-<br>
-
-추후 이미지 추가 예정
-
-<!--
-<p align="center">
-  <img src="docs/images/ForPets_ERD.png" width="80%">
-</p>
--->
-
-</details>
 
 ---
 
