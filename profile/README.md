@@ -443,26 +443,19 @@ k6
 
 # 🌐 Architecture
 
-<details>
-<summary><b>✅ 아키텍처 보기</b></summary>
+## V1(MVP)
+<img width="1382" height="818" alt="image" src="https://github.com/user-attachments/assets/3268b7b6-7ed9-47e4-a711-2e7853a89524" />
+## V2
+<img width="1657" height="1022" alt="image" src="https://github.com/user-attachments/assets/809a302c-d5d7-488c-bcbe-e5dfad53238b" />
 
-<br>
-
-추후 이미지 추가 예정
-
-<!--
-<p align="center">
-  <img src="docs/images/service_architecture.png" width="80%">
-</p>
--->
-
-</details>
 
 ---
 
 # 📋 ERD Diagram
-
+## V1(MVP)
 <img width="3741" height="1733" alt="image" src="https://github.com/user-attachments/assets/2250aef5-1641-437a-aaaf-c917c39ef011" />
+## V2
+<img width="4720" height="2774" alt="image" src="https://github.com/user-attachments/assets/cb74458c-a584-4af4-a84c-e3084bcf0281" />
 
 
 ---
