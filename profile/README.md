@@ -454,6 +454,17 @@ k6
 
 ---
 ### 이지민
+- 🤖 [AI 리뷰 요약 프롬프트 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/ai/ai-01-review-summary-prompt-template-missing.md)  
+  배포 환경에서 활성화된 프롬프트 템플릿이 없어 AI 리뷰 요약 생성이 실패한 문제 해결
+
+- 🧩 [Qdrant 배포 설정 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/ai/ai-02-rag-qdrant-prod-config.md)  
+  배포 환경에서 Qdrant base url 설정 누락으로 RAG 검색이 실패한 문제 해결
+
+- 🔎 [RAG 관리자 인덱싱 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/ai/ai-03-rag-admin-indexing-permission-and-failure.md)  
+  관리자 전용 RAG 인덱싱 버튼의 권한 처리와 부분 실패 카운트 표시 개선
+
+- 💳 [PG 부분취소 제한 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/payment/payment-01-partial-cancel-pg-limitation.md)  
+  간편결제 부분취소 제한으로 환불이 실패하던 문제를 정산 기록 분리 방식으로 해결
 
 ---
 
