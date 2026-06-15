@@ -26,6 +26,21 @@
 
 ---
 
+## 📚 목차
+
+- [👀 프로젝트 소개](#-프로젝트-소개)
+- [👥 Our Team](#-our-team)
+- [🔗 Links](#-links)
+- [✨ 프로젝트 기능](#-프로젝트-기능)
+- [🛠 적용 기술](#-적용-기술)
+- [⚙ Development Environment](#-development-environment)
+- [🚨 Trouble Shooting](#-trouble-shooting)
+- [🌐 Architecture](#-architecture)
+- [📋 ERD Diagram](#-erd-diagram)
+- [📝 Technologies & Tools](#-technologies--tools)
+
+---
+
 ## 👀 프로젝트 소개
 
 **For-Pets**는 반려동물 보호자와 펫시터를 연결하는 **반려동물 돌봄 예약 플랫폼**입니다.
