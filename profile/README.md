@@ -497,9 +497,6 @@ k6
 - 🔎 [RAG 관리자 인덱싱 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/ai/ai-03-rag-admin-indexing-permission-and-failure.md)  
   관리자 전용 RAG 인덱싱 버튼의 권한 처리와 부분 실패 카운트 표시 개선
 
-- 💳 [PG 부분취소 제한 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/jimin/payment/payment-01-partial-cancel-pg-limitation.md)  
-  간편결제 부분취소 제한으로 환불이 실패하던 문제를 정산 기록 분리 방식으로 해결
-
 ---
 
 # 🌐 Architecture
