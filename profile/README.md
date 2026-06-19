@@ -460,6 +460,20 @@ k6
 
 ---
 ### 박영수
+- 🔔 [Redis Streams Consumer Group 메시지 미소비 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/youngsue/notification/notification-01-redis-stream-consumer-group-offset.md)  
+  Redis Stream에는 알림 메시지가 쌓였지만 Consumer Group offset 설정 문제로 DB 저장과 SSE 전송이 이어지지 않던 문제 해결
+
+- 📡 [멀티 인스턴스 SSE 알림 누락 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/youngsue/notification/notification-02-multi-instance-sse-pubsub-fanout.md)  
+  단일 EC2 내부 멀티 인스턴스 환경에서 SSE 연결이 인스턴스별 메모리에 분리되어 실시간 알림이 누락되던 문제를 Redis Pub/Sub fan-out 구조로 해결
+
+- 📊 [Prometheus Target 환경 분리 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/youngsue/monitoring/monitoring-01-prometheus-target-env-split.md)  
+  로컬 싱글, 로컬 멀티, 운영 멀티 환경의 컨테이너 이름과 네트워크 기준이 달라 Prometheus scrape가 실패하던 문제를 환경별 설정 분리로 해결
+
+- 🚀 [단일 EC2 내부 멀티 인스턴스 운영 전환 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/youngsue/infra/infra-01-single-ec2-multi-instance-compose.md)  
+  `docker run` 기반 배포가 복잡해지면서 운영 컨테이너 구성이 CI 스크립트에 섞이던 문제를 `docker-compose.prod.yml`과 Nginx upstream 구조로 개선
+
+- 🐳 [EC2 Docker Compose 플러그인 누락 트러블슈팅](https://github.com/Housekeeper-for-pets/docs/blob/main/troubleshooting/youngsue/infra/infra-02-docker-compose-plugin-missing.md)  
+  EC2에 Docker Engine은 설치되어 있었지만 Compose v2 플러그인이 없어 운영 배포가 실패하던 문제를 CI 배포 스크립트의 사전 점검 및 자동 설치로 해결
 
 ---
 ### 선경안
