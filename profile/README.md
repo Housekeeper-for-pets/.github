@@ -325,13 +325,9 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
-
-<!--
 <p align="center">
-  <img src="docs/images/preview_ai.png" width="80%">
+  <img src="https://github.com/user-attachments/assets/724af58f-0b66-45b6-b235-5031549040bd" width="80%" alt="AI 기능 미리보기" />
 </p>
--->
 
 </details>
 
