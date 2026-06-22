@@ -135,7 +135,7 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+<img width="1080" height="1080" alt="download (1)" src="https://github.com/user-attachments/assets/e15a1148-67b9-43ad-a9ea-6dbb89d33d9d" />
 
 <!--
 <p align="center">
