@@ -135,6 +135,8 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
+반려동물 등록 
+
 <img width="1080" height="1080" alt="download (1)" src="https://github.com/user-attachments/assets/e15a1148-67b9-43ad-a9ea-6dbb89d33d9d" />
 
 <!--
@@ -162,7 +164,23 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+시터 프로필 생성 - 대기 상태   
+   
+<img width="1080" height="1080" alt="시터 프로필 등록" src="https://github.com/user-attachments/assets/f7bba390-80e2-4802-b750-0b550547d819" />   
+
+관리자 - 시터 프로필 목록 조회, 승인   
+승인 이후 시터 기능 활성화    
+   
+<img width="1080" height="1080" alt="시터 프로필 승인" src="https://github.com/user-attachments/assets/763db387-c0e5-4bab-9750-5cf1a33f1be8" />   
+
+공고 작성, 내 공고 목록 확인 가능    
+   
+<img width="1080" height="1080" alt="공고 작성" src="https://github.com/user-attachments/assets/4faf92ae-b7b9-4856-9ff0-2c0f6b6c356d" />   
+
+공고에 제안 등록, 내 제안 목록 확인 가능    
+   
+<img width="1080" height="1080" alt="제안 등록" src="https://github.com/user-attachments/assets/7f24a622-3b36-4739-93fc-1f449d14e8f2" />   
+
 
 <!--
 <p align="center">
@@ -190,7 +208,24 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+공고에 들어온 제안을 수락하여 예약 생성   
+   
+<img width="1080" height="1080" alt="제안 수락" src="https://github.com/user-attachments/assets/9e4c3642-5539-4b46-8c12-2a0da5139235" />   
+
+예약 확정 시 케어 일지 작성 가능   
+   
+<img width="1080" height="1080" alt="케어 일지 작성" src="https://github.com/user-attachments/assets/ba745493-8812-4b54-8b45-f6013b78e3c9" />   
+
+
+시터 - 케어 완료 처리, 정산 내역 확인 가능   
+   
+<img width="1080" height="1080" alt="케어 완료" src="https://github.com/user-attachments/assets/4a4825f0-9e5c-4cca-915e-19c208bc5663" />
+
+보호자 - 리뷰 작성   
+리뷰 목록 조회, AI 리뷰 갱신 가능   
+
+<img width="1080" height="1080" alt="리뷰" src="https://github.com/user-attachments/assets/dea8e72a-7d42-43cd-8024-655a4d5ea752" />
+
 
 <!--
 <p align="center">
@@ -218,7 +253,16 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+실시간 채팅 기능   
+   
+<img width="1080" height="1080" alt="실시간 채팅" src="https://github.com/user-attachments/assets/6a50e9c4-710f-4ea7-801d-97e9c09837b2" />   
+
+채팅 목록 조회   
+채팅방 나가기 기능   
+시터 프로필 화면에서 새로운 채팅 시작 가능   
+
+<img width="1080" height="1080" alt="채팅2" src="https://github.com/user-attachments/assets/aa5db28f-70e9-4b9d-9685-4f6a62377816" />
+
 
 <!--
 <p align="center">
@@ -245,7 +289,14 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+관리자 - 쿠폰 생성, 수량 관리 가능   
+   
+<img width="1080" height="1080" alt="쿠폰" src="https://github.com/user-attachments/assets/47e223d3-88a7-4cd6-86cb-5d9d638727c7" />   
+
+
+쿠폰 발급, 보호자 결제 시도 시 자동 차감된 금액으로 결제 진행   
+   
+<img width="1080" height="1080" alt="쿠폰 차감" src="https://github.com/user-attachments/assets/38d979dc-3c2c-4327-8fcf-0290c7bee0d7" />   
 
 <!--
 <p align="center">
@@ -272,7 +323,16 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+보호자 - 쿠폰 사용 결제 - 상태 유지   
+    
+<img width="1080" height="1080" alt="보호자 결제" src="https://github.com/user-attachments/assets/04645bad-5510-4c3e-a9a7-dc1cb76050a5" />   
+
+시터 - 쿠폰 미사용 - 상태 전이 : CONFIRMED   
+   
+<img width="1080" height="1080" alt="시터 결제" src="https://github.com/user-attachments/assets/af221ac2-a105-4bf1-a78c-fd1f6f97898c" />   
+
+
+
 
 <!--
 <p align="center">
@@ -289,8 +349,8 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 예약, 채팅, 쿠폰 등 사용자에게 필요한 이벤트를 알림으로 제공합니다.
 
 * 예약 상태 변경 알림
-* 채팅 알림
-* 쿠폰 알림
+* 돌봄 일지 알림
+* 시터 프로필 승인 알림 
 * Kafka 기반 알림 이벤트 처리
 
 <details>
@@ -298,7 +358,15 @@ JWT 기반 인증을 통해 사용자를 식별하고 권한을 검증합니다.
 
 <br>
 
-추후 이미지 추가 예정
+알림 목록 조회, 읽음 처리 기능  
+   
+<img width="1080" height="1080" alt="알림" src="https://github.com/user-attachments/assets/a06261e8-3469-40be-9938-4dce15069dba" />   
+
+예약 상태 변경 알림, 돌봄 일지 알림   
+관련 화면으로 즉시 이동 가능   
+
+<img width="1080" height="1080" alt="알림2" src="https://github.com/user-attachments/assets/a5373e80-9d5f-41ad-8706-b2679a4f0343" />
+
 
 <!--
 <p align="center">
